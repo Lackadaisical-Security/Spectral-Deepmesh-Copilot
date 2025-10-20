@@ -1,0 +1,115 @@
+# Dual License: MIT / LQX-20
+
+**Deep Translator Engine v1.0.0**  
+**Copyright © 2025 Lackadaisical Security**
+
+This software is available under a dual license system:
+
+---
+
+## MIT License (Open Source)
+
+### For educational, research, and open-source projects
+
+Copyright (c) 2025 Lackadaisical Security
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## LQX-20 License (Commercial & Mesh Integration)
+
+### For commercial use, enterprise deployment, and mesh integration
+
+**License Grant:** Lackadaisical Security grants you a non-exclusive, non-transferable license to use the Deep Translator Engine software ("Software") for commercial purposes, subject to the terms below.
+
+**Permitted Commercial Uses:**
+- Integration into commercial applications and services
+- Enterprise deployment and internal business use
+- Mesh network integration and distributed computing
+- Custom development services using the Software
+- Resale as part of larger software solutions
+
+**Mesh Integration Rights:**
+- Deploy across distributed mesh architectures
+- Integrate with blockchain and decentralized networks  
+- Use in peer-to-peer translation services
+- Embed in IoT and edge computing environments
+- Scale across cloud and hybrid infrastructures
+
+**Attribution Requirements:**
+- Include copyright notice in all distributions
+- Credit "Powered by Deep Translator Engine - Lackadaisical Security"
+- Maintain reference to https://lackadaisical-security.com
+
+**Support and Warranty:**
+- Commercial license includes technical support
+- Enterprise support available at support@lackadaisical-security.com
+- Software provided with limited warranty for commercial use
+- Bug fixes and updates included for active license holders
+
+**License Fees:**
+- Contact licensing@lackadaisical-security.com for pricing
+- Volume discounts available for large deployments
+- Custom licensing terms available for unique use cases
+
+**Restrictions:**
+- May not redistribute source code without permission
+- May not create competing translation engines using core algorithms
+- Must comply with export control regulations (see EXPORT_CONTROL_NOTICE.md)
+
+**Termination:**
+- License automatically terminates if terms are violated
+- 30-day cure period for non-material breaches
+- Immediate termination for material breaches or non-payment
+
+---
+
+## Choosing Your License
+
+**Use MIT License if:**
+- Building open-source projects
+- Academic research or educational use
+- Personal projects and experimentation
+- Contributing back to the community
+
+**Use LQX-20 License if:**
+- Commercial applications or services
+- Enterprise or business deployment
+- Mesh integration or distributed systems
+- Resale or productization of the Software
+
+---
+
+## Contact Information
+
+**General Inquiries:** info@lackadaisical-security.com  
+**Technical Support:** support@lackadaisical-security.com  
+**Linguistic Consultation:** linguistics@lackadaisical-security.com  
+**Commercial Licensing:** licensing@lackadaisical-security.com  
+
+**Website:** https://lackadaisical-security.com  
+**GitHub:** https://github.com/Lackadaisical-Security
+
+---
+
+*This dual license system allows maximum flexibility for users while supporting continued development of the Deep Translator Engine.*
+
+**Last Updated:** August 6, 2025  
+**Version:** 1.0.0
