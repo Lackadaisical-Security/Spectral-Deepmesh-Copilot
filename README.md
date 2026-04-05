@@ -85,7 +85,7 @@
 
 ## 🌟 Overview
 
-Spectral DeepMesh Copilot v2.0.0 is a cutting-edge production system for ancient language translation and decipherment. Built on OpenAI's Deep Research API, it provides comprehensive tools for scholarly research across 17 script families with 243 active datasets loading successfully.
+Spectral DeepMesh Copilot v2.0.0 is a cutting-edge production system for ancient language translation and decipherment. Built on OpenAI's Deep Research API, Stonedrift 3000 Mesh, and LTES system, it provides comprehensive tools for scholarly research across 17 script families with 243 active datasets loading successfully.
 
 ### ✨ Core Features
 
